@@ -1,5 +1,5 @@
 {
-  "name": "rapscallion",
+  "name": "@porch/rapscallion",
   "version": "2.1.5",
   "description": "Asynchronous React VirtualDOM renderer for SSR.",
   "keywords": [
