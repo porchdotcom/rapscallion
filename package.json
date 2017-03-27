@@ -10,7 +10,7 @@
     "html",
     "stream"
   ],
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "npm run check && rm -rf lib/ && babel -d lib/ src/",
     "check": "npm run lint && npm run test",
